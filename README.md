@@ -1,6 +1,5 @@
 **[[Submit product or tutorial](https://github.com/Atarity/deploy-your-own-saas/issues/new?assignees=&labels=&template=submit-new-product.md)]** or make it thru PR.
 
-![Scryer](/scryer.jpg)
 
 ### 🙊 Deploy your own `VPN`
 - [OpenVPN](https://openvpn.net/) — full-featured open source VPN solution. [(Digital Ocean tutorial)](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04)
